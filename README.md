@@ -51,7 +51,7 @@ I ship production systems under real constraints — enterprise KYC, location-aw
 |---|---|
 | **[UML Generation Pipeline](https://superior-fighters-sarah-say.trycloudflare.com)** | **M.S. thesis app** — NL/source code → UML (PlantUML) + VLM scoring |
 | [OmniAgent](https://github.com/dipak5501/omniagent-app) | AI cross-chain DAO governance — GPT-4 + smart contracts · ETHGlobal winner |
-| [LocalPulse](https://github.com/dipak5501/localpulse) | Live location-aware trending map · Next.js, Leaflet, PostGIS |
+| [Harborbrief (LocalPulse)](https://dipak5501.github.io/localpulse/) | Living place brief — weather, wiki, neighborhood access + community pulses · Next.js, Leaflet, Google/OSM APIs |
 | [clearinstall](https://github.com/dipak5501/clearinstall) | Local-first lockfile / install-surface security auditor |
 | [keepcut](https://github.com/dipak5501/keepcut) | Privacy-first subscription auditor from bank CSVs in-browser |
 
