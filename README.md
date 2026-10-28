@@ -34,13 +34,16 @@ I ship production systems under real constraints — enterprise KYC, location-aw
 - **M.S. Thesis (CSULB)** — *Automated UML Dataset Generation from Natural-Language Requirements with Multimodal Verification* · **[Thesis page](https://dipak5501.github.io/thesis.html)** · **[Live app](https://superior-fighters-sarah-say.trycloudflare.com)**
 - **Research** — ICSOFT 2026 self-adaptive systems paper · [Google Scholar](https://scholar.google.com/citations?user=p94PqbsAAAAJ&hl=en)
 
-### Find me
+### Find me on the web
 | | |
 |---|---|
 | **Portfolio** | [dipak5501.github.io](https://dipak5501.github.io/) |
+| **About** | [dipak5501.github.io/about.html](https://dipak5501.github.io/about.html) |
 | **Thesis** | [dipak5501.github.io/thesis.html](https://dipak5501.github.io/thesis.html) · [Live app](https://superior-fighters-sarah-say.trycloudflare.com) |
 | **LinkedIn** | [linkedin.com/in/dipak-yadav01](https://www.linkedin.com/in/dipak-yadav01/) |
 | **Scholar** | [scholar.google.com](https://scholar.google.com/citations?user=p94PqbsAAAAJ&hl=en) |
+| **CSULB press** | [ETHGlobal win feature](https://www.csulb.edu/college-of-engineering/computer-engineering-computer-science/article/csulb-cecs-students-win-1st) |
+| **ETHGlobal** | [OmniAgent](https://ethglobal.com/showcase/omniagent-mxsn4) |
 | **Email** | dipak.yadav5501@gmail.com |
 
 ### Selected work
