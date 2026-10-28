@@ -1,12 +1,20 @@
 # Dipak Yadav
 
-**Software Engineer · Full-Stack & AI** · Long Beach, CA  
-M.S. Computer Science @ [CSULB](https://www.csulb.edu/) · Former Software Engineer @ [LTIMindtree](https://www.ltimindtree.com/)
+**Software Engineer · Full-Stack & AI** · Long Beach, CA, USA  
+**Nepali** · Path: **Nepal → Bangalore, India → Long Beach, USA**
+
+M.S. Computer Science @ [CSULB](https://www.csulb.edu/) (Long Beach, USA) · Former Software Engineer @ [LTIMindtree](https://www.ltimindtree.com/) (Bangalore)
 
 I ship production systems under real constraints — enterprise KYC, location-aware maps, ETHGlobal-winning AI agents, and my M.S. thesis on automated UML generation.
 
+### Education
+| Degree | School · place · years |
+|---|---|
+| **M.S. Computer Science** | California State University, Long Beach (CSULB) · Long Beach, USA · Jan 2025 – Dec 2026 |
+| **B.E. Computer Science & Engineering** · GPA 8.42/10 · First Class with Distinction | New Horizon College of Engineering · Bangalore, India · 2018–2022 |
+
 ### Highlights
-- **M.S. Thesis (CSULB)** — Automated UML generation from NL requirements & source code with multimodal VLM verification · **[Open thesis app](https://superior-fighters-sarah-say.trycloudflare.com)**
+- **M.S. Thesis (CSULB)** — *Automated UML Dataset Generation from Natural-Language Requirements with Multimodal Verification* · **[Thesis page](https://dipak5501.github.io/thesis.html)** · **[Live app](https://superior-fighters-sarah-say.trycloudflare.com)**
 - **ETHGlobal New York 2025** — 1st place, Partner of Saga track ([OmniAgent](https://ethglobal.com/showcase/omniagent-mxsn4) · [CSULB feature](https://www.csulb.edu/college-of-engineering/computer-engineering-computer-science/article/csulb-cecs-students-win-1st))
 - **Rising Developer of the Year** — 2023 & 2024
 - **Research** — ICSOFT 2026 self-adaptive systems paper · [Google Scholar](https://scholar.google.com/citations?user=p94PqbsAAAAJ&hl=en)
@@ -15,7 +23,7 @@ I ship production systems under real constraints — enterprise KYC, location-aw
 | | |
 |---|---|
 | **Portfolio** | [dipak5501.github.io](https://dipak5501.github.io/) |
-| **Thesis app** | [Live UML Generation Pipeline](https://superior-fighters-sarah-say.trycloudflare.com) |
+| **Thesis** | [dipak5501.github.io/thesis.html](https://dipak5501.github.io/thesis.html) · [Live app](https://superior-fighters-sarah-say.trycloudflare.com) |
 | **LinkedIn** | [linkedin.com/in/dipak-yadav01](https://www.linkedin.com/in/dipak-yadav01/) |
 | **Scholar** | [scholar.google.com](https://scholar.google.com/citations?user=p94PqbsAAAAJ&hl=en) |
 | **Email** | dipak.yadav5501@gmail.com |
